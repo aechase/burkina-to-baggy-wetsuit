@@ -5,9 +5,8 @@ Inspired by [this tweet](https://twitter.com/borzou/status/768487470035980288), 
 
 ## Installation
 
-1. Add the extension to your browser of choice:
-  - [Chrome](https://chrome.google.com/webstore/detail/millennials-to-snake-peop/jhkibealmjkbkafogihpeidfcgnigmlf)
-- [Free your mind](https://www.google.com/search?q=burkini)
+1. Add the extension to Chrome via the [Chrome Web Store](https://chrome.google.com/webstore/detail/burkini-to-baggy-wetsuit/iljgipompeopbangmbdbkphbaofiekbl)
+2. [Free your mind](https://www.google.com/search?q=burkini)
 
 
 ## Check out the originals
